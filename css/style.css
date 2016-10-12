@@ -11,6 +11,7 @@ body { font-family: sans-serif; }
 
 .gallery-cell {
 	min-width: 200px;
+	width: auto;
 	height: 200px;
 	margin-right: 10px;
 	background: #8C8;
